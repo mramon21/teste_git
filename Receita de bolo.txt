@@ -5,3 +5,4 @@ Receita de bolo:
 - Leite
 - Açucar
 - Fermento
+- Chocolate
